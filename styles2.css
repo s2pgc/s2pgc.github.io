@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400&family=Lisu+Bosa:wght@600&display=swap');
+body{
+    background: white;
+    font-family: kanit;
+    padding: 5%;
+}
+h1{
+    font-family: lisu bosa;
+    color: black;
+}
+.t{
+    font-family: lisu bosa;
+    color: rgba(41, 41, 41, 0);
+}
+input{
+    height: 20px;
+    width: 50%;
+    border: solid 3px grey;
+}
